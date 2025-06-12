@@ -52,7 +52,8 @@
             <h2><i>Imágenes de Nuestra Comunidad</i></h2>
             <div class="carousel-container">
                 <div class="carousel-slide">
-                    <img src="file:///C:/Users/Santiago%20Rivera/Downloads/img1%20(1).jpg" alt="Imagen 1 del plantel">
+                    <img src="![image](https://github.com/user-attachments/assets/bb7d030a-6f1e-4f24-b1bd-3699f66a245f)
+" alt="Imagen 1 del plantel">
                     <img src="file:///C:/Users/Santiago%20Rivera/Downloads/img2.jpg" alt="Imagen 2 del plantel">
                     <img src="file:///C:/Users/Santiago%20Rivera/Downloads/img3.jpg"Imagen 3 del plantel">
                     <img src="file:///C:/Users/Santiago%20Rivera/Downloads/img4.jpg" alt="Imagen 4 del plantel">
